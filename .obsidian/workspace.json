@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "11c94b99d7fb3755",
+    "type": "split",
+    "children": [
+      {
+        "id": "9524005e0f5449b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1873fbfa81eed033",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/Golang Dockerize.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c57c4436eef24de",
+    "type": "split",
+    "children": [
+      {
+        "id": "96dce24315fd374c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5311f55e88c1b114",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e1be025cc4d7c017",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "02acb09949867604",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ad02cac393ed8c5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e1e2afa27206c78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63c41151bb0ebbb9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Docker/Golang Dockerize.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59dfce7a4a1c5aa3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Docker/Golang Dockerize.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "83eef13b4109a8ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "18291a4df4c30317",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Docker/Golang Dockerize.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "active": "1873fbfa81eed033",
+  "lastOpenFiles": [
+    "Docker/Docker.md",
+    "Docker/Golang Dockerize.md",
+    "Programming/Golang/Gin Auto-Reload.md",
+    "Docker/Single domain publish.md",
+    "Nginx/Php (Laravel) Nginx.md",
+    "Nginx/Nginx in Docker Container.md",
+    "Nginx/Nginx.md",
+    "Nginx/Reverse Proxy.md",
+    "Linux.md",
+    "2022-11-18.md"
+  ]
+}
